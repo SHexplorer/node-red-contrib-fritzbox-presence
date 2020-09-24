@@ -8,8 +8,7 @@ A node for node-RED to list active devices connected to a Fritz!Box.
 
 ## Prerequisites
 
-* a Fritz!Box running Fritz!OS >= 5.50
-
+* a Fritz!Box running Fritz!OS >= 7.0
 ## Installation
 
 Just install this module in your node-RED configuration folder
