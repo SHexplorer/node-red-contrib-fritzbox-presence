@@ -31,6 +31,6 @@
   },
   "dependencies": {
     "bluebird": "^3.5.0",
-    "xml2js": "^0.4.25"
+    "xml2js": "^0.4.20"
   }
 }
